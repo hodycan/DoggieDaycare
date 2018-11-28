@@ -2,7 +2,7 @@ document.write('\
 	<header>\
 		<div id="title">\
 			<a href="index.html">\
-				<h1> CODY HAN </h1>\
+				<h1> DOGGIE DAYCARE </h1>\
 			</a>\
 		</div>\
 		<nav>\
@@ -12,10 +12,9 @@ document.write('\
 				<a id="about-me-nav" class="nav-link" href="about-me.html"> ABOUT ME </a>\
 			</div>\
 			<div class="row" id="portfolio-links">\
-				<a id="photography-nav" class="portfolio-nav-link" href="photography.html"> PHOTOGRAPHY </a>\
-				<a id="music-production-nav" class="portfolio-nav-link" href="music-production.html"> MUSIC PRODUCTION </a>\
-				<a id="development-nav" class="portfolio-nav-link" href="development.html"> DEVELOPMENT </a>\
-				<a id="sound-design-nav" class="portfolio-nav-link" href="sound-design.html"> SOUND DESIGN </a>\
+				<a id="photography-nav" class="portfolio-nav-link" href="photography.html"> LINK </a>\
+				<a id="photography-nav" class="portfolio-nav-link" href="photography.html"> LINK </a>\
+				<a id="photography-nav" class="portfolio-nav-link" href="photography.html"> LINK </a>\
 			</div>\
 		</nav>\
 	</header>\

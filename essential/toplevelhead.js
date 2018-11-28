@@ -4,6 +4,6 @@ document.write('\
 	<script src="js/main.js"></script>\
 	\
 	<link rel="stylesheet" type="text/css" href="css/main.css">\
-	<meta name="author" content="Cody Han">\
+	<meta name="author" content="Doggie Daycare">\
 \
 ');

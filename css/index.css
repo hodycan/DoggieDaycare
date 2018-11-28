@@ -31,17 +31,17 @@ div.showcase-container {
 
 #photography {
 	background-image: linear-gradient(rgba(0, 0, 0, 0.5), 
-		rgba(0, 0, 0, 0.5)), url(../images/index_links/photography.jpg);
+		rgba(0, 0, 0, 0.5)), url(../images/dog1.jpg);
 }
 
 #music-production {
 	background-image: linear-gradient(rgba(0, 0, 0, 0.5), 
-		rgba(0, 0, 0, 0.5)), url(../images/index_links/music-production.jpg);
+		rgba(0, 0, 0, 0.5)), url(../images/dog2.jpg);
 }
 
 #development {
 	background-image: linear-gradient(rgba(0, 0, 0, 0.5), 
-		rgba(0, 0, 0, 0.5)), url(../images/index_links/development.jpg);
+		rgba(0, 0, 0, 0.5)), url(../images/dog1.jpg);
 }
 
 

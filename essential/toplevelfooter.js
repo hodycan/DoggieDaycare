@@ -6,10 +6,10 @@ document.write('\
 			var d = new Date();\
 			document.write(d.getFullYear());\
 		</script> \
-		Cody Han\
+		WOOF ENTERTAINMENT\
 	</div>\
 	<div>\
-		<a href="mailto:hodycan@gmail.com">Contact Me</a>\
+		<a href="mailto:contact@woofentertainment.com">Contact Us</a>\
 	</div>\
 </div>\
 ');
