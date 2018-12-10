@@ -43,18 +43,24 @@ div.showcase-container {
 
 #desingdoc {
 	background-image: linear-gradient(rgba(0, 0, 0, 0.5), 
-		rgba(0, 0, 0, 0.5)), url(../images/dog2.jpg);
+		rgba(0, 0, 0, 0.5)), url(../images/coverpage1.png);
 }
 
 
 #demo {
 	background-image: linear-gradient(rgba(0, 0, 0, 0.5), 
-		rgba(0, 0, 0, 0.5)), url(../images/dog2.jpg);
+		rgba(0, 0, 0, 0.5)), url(../images/demopage.png);
 }
 
 #development {
 	background-image: linear-gradient(rgba(0, 0, 0, 0.5), 
-		rgba(0, 0, 0, 0.5)), url(../images/dog1.jpg);
+		rgba(0, 0, 0, 0.5)), url(../images/coverpage2.png);
+}
+
+
+#follow {
+	background-image: linear-gradient(rgba(0, 0, 0, 0.5), 
+		rgba(0, 0, 0, 0.5)), url(../images/coverpage3.png);
 }
 
 
