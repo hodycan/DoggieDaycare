@@ -1,0 +1,39 @@
+body {
+	background-color: rgb(54, 98, 128);
+	color: #fff;
+}
+
+
+
+.headerTitle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+}
+
+#carsouleConatiner{
+    margin-bottom: 100px;
+}
+
+.mainConatiner{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+    flex-direction: column;
+
+}
+
+#carsouleConatiner{
+    width: 75%;
+}
+
+.footer {
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       flex-direction: column;
+
+       height: 200px;
+    }
+    

@@ -17,11 +17,17 @@ div.showcase-container {
 
 	/*width: 100%;*/
 
+	height: 300px;
 	display: block;
 	-webkit-transition: filter .4s ease-in;
 	-moz-transition: filter .4s ease-in;
 	-o-transition: filter .4s ease-in;
 	transition: filter .4s ease-in;
+
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
 
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -29,12 +35,19 @@ div.showcase-container {
 
 }
 
-#photography {
+#gallery {
 	background-image: linear-gradient(rgba(0, 0, 0, 0.5), 
-		rgba(0, 0, 0, 0.5)), url(../images/dog1.jpg);
+	rgba(0, 0, 0, 0.5)), url(../images/mainGallery.png);
+	
 }
 
-#music-production {
+#desingdoc {
+	background-image: linear-gradient(rgba(0, 0, 0, 0.5), 
+		rgba(0, 0, 0, 0.5)), url(../images/dog2.jpg);
+}
+
+
+#demo {
 	background-image: linear-gradient(rgba(0, 0, 0, 0.5), 
 		rgba(0, 0, 0, 0.5)), url(../images/dog2.jpg);
 }
@@ -51,25 +64,9 @@ div.showcase-text {
 
 	text-shadow: 0 0 10px black;
 	font-weight: normal;
-
-	/*color: #ddd;*/
-	/*position: absolute;*/
-
-	width: 100%;
-	height: 300px;
-	margin: auto;
-	top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-
+	font-size: 36px;
     text-align: center;
 
-    line-height: 300px;
-    /*display: table-cell;*/
-    /*vertical-align: middle;*/
-
-    font-size: 2em;
 }
 
 .showcase-container:hover {
@@ -88,4 +85,16 @@ div.showcase-text:hover {
 	height: 150px;
     line-height: 150px;
 	}
+}
+
+.iconHolder {
+	height: 100px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+i {
+	width: 40px;
+	font-size: 36px;
 }
